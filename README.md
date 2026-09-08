@@ -86,7 +86,7 @@ Advanced Angular Architecture · TypeScript Design Patterns · Front-End Perform
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-amin-taheri/)
 [![npm](https://img.shields.io/badge/npm-amin83th-CB3837?style=flat-square\&logo=npm\&logoColor=white)](https://www.npmjs.com/~amin83th)
 
 📧 **Email:** [mohammadamin83th@gmail.com](mailto:mohammadamin83th@gmail.com)
